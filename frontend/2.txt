@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This is ishita, a type of Japanese pickled plum. It's a popular ingredient in Japanese cuisine, and is   
 this is new file regrading testing
 this is last commit
+=======
+This is ishit
+this is my new file
+>>>>>>> main
