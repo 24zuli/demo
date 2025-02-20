@@ -3,6 +3,11 @@ hello world
 this is mew file
 sbxshcsbcsb
 git 
+<<<<<<< HEAD
 
 dcwdhwdgwidshhs
 this is zuli dobariya a backend developer
+=======
+dcsdcvscscfebdwdw
+this is zuli dobariya 
+>>>>>>> backend
